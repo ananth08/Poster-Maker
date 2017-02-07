@@ -1,0 +1,11 @@
+.idea/
+*.iml
+out/
+/bin/
+.classpath
+.project
+.settings
+PosterMaker/WebContent/META-INF/
+PosterMaker/bin/
+
+
